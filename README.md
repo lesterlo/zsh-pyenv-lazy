@@ -18,7 +18,7 @@ zgen load davidparsson/zsh-pyenv-lazy
 ### oh-my-zsh
 
 ```sh
-git clone https://github.com/davidparsson/zsh-pyenv-lazy.git ~/.oh-my-zsh/custom/plugins/pyenv-lazy
+git clone https://github.com/lesterlo/zsh-pyenv-lazy.git ~/.oh-my-zsh/custom/plugins/pyenv-lazy
 ```
 
 Then, in your `~/.zshrc`, add `pyenv-lazy` to your `plugins` variable.
